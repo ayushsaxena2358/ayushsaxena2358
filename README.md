@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ayushsaxena2358
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Ayush Saxena
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ayushsaxena1608@gmail.com
+- 📫 How to reach me ayush.asax.saxena@gmail.com
 
 <!---
 ayushsaxena2358/ayushsaxena2358 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
